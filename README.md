@@ -1,130 +1,258 @@
 
+<!-- ======================================================= -->
+<!--                 MITHLESH GENZ PROFILE                   -->
+<!-- ======================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:005bea,100:00c6fb&height=220&section=header&text=Mithlesh-genz&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=BUILD%20%7C%20LEARN%20%7C%20INNOVATE&descAlignY=60&descSize=20" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020024,35:0047AB,70:007BFF,100:00D4FF&text=MITHLESH%20GENZ&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=TECH%20ENTHUSIAST%20%7C%20INNOVATOR%20%7C%20LEARNER&descSize=16&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Mithlesh+Kumar+Yadav;IoT+%7C+Cyber+Security+%7C+Blockchain;Developer+%7C+Learner+%7C+Innovator" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00CFFF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mithlesh+Kumar+Yadav+%F0%9F%91%8B;Exploring+IoT+%7C+Cyber+Security+%7C+Blockchain;Building+Ideas+Into+Digital+Experiences;Always+Learning.+Always+Innovating." />
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-INNOVATION-007BFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/INTEREST-IoT-00BFFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/INTEREST-CYBER_SECURITY-007BFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/INTEREST-BLOCKCHAIN-00BFFF?style=flat-square"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ABOUT ME -->
 
-Hey! I'm **Mithlesh Kumar Yadav**, a B.Tech CSE student passionate about technology, innovation and software development.
+## ◈ ABOUT ME
 
-- 🎓 B.Tech CSE Student
+<img align="right" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithlesh-genz&layout=compact&theme=tokyonight&hide_border=true&bg_color=050B18&title_color=00CFFF&text_color=FFFFFF"/>
+
+Hey! I'm **Mithlesh Kumar Yadav**, a B.Tech CSE student passionate about technology, innovation and building meaningful digital experiences.
+
+- 🎓 B.Tech Computer Science Student
 - 🌐 Internet of Things (IoT)
-- 🔐 Cyber Security Enthusiast
-- ⛓️ Blockchain Technology Explorer
-- 💻 Full-stack Web Development
-- 🚀 Building innovative digital projects
+- 🔐 Cyber Security
+- ⛓️ Blockchain Technology
+- 💻 Web Application Development
+- 🚀 Exploring new technologies and ideas
+
+<br clear="right"/>
+
+> "Think creatively. Build intelligently. Innovate continuously."
 
 ---
 
-## ⚡ Tech Stack Icons (Quick Glance)
+<!-- TECH STACK -->
+
+## ◈ TECHNOLOGY & TOOLS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,vite,tailwind,nodejs,express,mongodb,git,github,docker,linux,vscode&perline=8" />
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css&theme=dark"/>
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- FEATURED PROJECTS -->
+
+## ◈ FEATURED PROJECTS
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🚇 Yuvren Smart Metro Card
+<div align="center">
 
-Smart travel card concept for metro transportation.
+### 🎬 YUVRENTALK
+
+<img src="https://img.shields.io/badge/SOCIAL-ENTERTAINMENT-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-007BFF?style=for-the-badge"/>
+
+</div>
+
+A modern short-video and social entertainment platform focused on creativity, content sharing and community engagement.
+
+**Core Features**
+
+- 🎥 Short Videos , News  & Quvix
+- ❤️ Likes, Comments & Sharing
+- 👤 User Profiles
+- 🔔 Notifications
+- 🌐 Social Community
+- 📱 Responsive Interface
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark"/>
+
+<br/><br/>
+
+<a href="https://yuvren-talk.vercel.app">
+<img src="https://img.shields.io/badge/EXPLORE-PROJECT-007BFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
-<td width="50%" align="center">
 
-### 💬 BharatTalk
+<td width="50%" valign="top">
 
-Modern community and social communication platform.
+<div align="center">
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
+### 🚇 YUVREN SMART METRO CARD
 
-### 🎬 YuvrenTalk
+<img src="https://img.shields.io/badge/SMART-TRANSPORT-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-PLANNING-007BFF?style=for-the-badge"/>
 
-Short-video entertainment platform.
+</div>
 
-</td>
-<td width="50%" align="center">
+An innovative smart mobility concept designed to simplify metro travel through digital card management and modern payment technology.
 
-### 💳 YouPI-PG
+**Core Features**
 
-Self-hosted UPI and QR payment gateway.
+- 💳 Smart Travel Card
+- 📲 Digital Card Management
+- 💰 Balance & Recharge
+- 🚉 Metro Payment Concept
+- 📊 Transaction History
+- 🔐 Secure Authentication
 
-<a href="https://github.com/youpi-pg/YouPI-PG">View Repository →</a>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/EXPLORE-INNOVATION-007BFF?style=for-the-badge&logo=rocket&logoColor=white"/>
+
+</div>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 📊 GitHub Statistics
+<!-- GITHUB ANALYTICS -->
+
+## ◈ GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mithlesh-genz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050B18&title_color=00BFFF&icon_color=00BFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mithlesh-genz&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=050B18&title_color=00CFFF&icon_color=00CFFF&text_color=FFFFFF"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithlesh-genz&layout=compact&theme=tokyonight&hide_border=true&bg_color=050B18&title_color=00BFFF"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Mithlesh-genz&theme=tokyonight&hide_border=true&background=050B18&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF"/>
+
+</div>
+
+---
+
+<!-- ACHIEVEMENTS -->
+
+## ◈ GITHUB ACHIEVEMENTS
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Mithlesh-genz&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"/>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Mithlesh-genz&theme=tokyonight&hide_border=true&background=050B18&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"/>
+<img src="https://img.shields.io/github/followers/Mithlesh-genz?style=for-the-badge&logo=github&label=FOLLOWERS&color=007BFF"/>
+
+<img src="https://img.shields.io/github/stars/Mithlesh-genz?style=for-the-badge&logo=github&label=STARS&color=00BFFF"/>
+
+<img src="https://komarev.com/ghpvc/?username=Mithlesh-genz&style=for-the-badge&color=007BFF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+<!-- CONTRIBUTION GRAPH -->
+
+## ◈ CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mithlesh-genz&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mithlesh-genz&bg_color=050B18&color=00CFFF&line=007BFF&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20GITHUB%20ACTIVITY"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<!-- CONNECT -->
+
+## ◈ CONNECT WITH ME
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithlesh-genz&bg_color=050B18&color=00BFFF&line=008cff&point=ffffff&area=true&hide_border=true" width="100%"/>
+### Let's Connect, Collaborate & Create Something Amazing!
 
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
+<br/>
 
 <a href="https://github.com/Mithlesh-genz">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="YOUR_X_URL">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<br/>
+
+<a href="YOUR_YOUTUBE_URL">
+<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="YOUR_DISCORD_URL">
+<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Open to Learning • Collaboration • Innovation**
 
 </div>
 
 ---
 
+<!-- FOOTER -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005bea,100:00c6fb&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:005BEA,100:020024&height=130&section=footer"/>
 
-### ⚡ Keep Coding • Keep Growing • Keep Innovating 🚀
+### ⚡ KEEP BUILDING. KEEP INNOVATING. KEEP GROWING. ⚡
+
+<sub>Designed with passion by Mithlesh Kumar Yadav</sub>
 
 </div>
