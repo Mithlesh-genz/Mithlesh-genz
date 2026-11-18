@@ -72,15 +72,7 @@ An innovative smart travel card concept for metro transportation.
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mithlesh-genz&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
