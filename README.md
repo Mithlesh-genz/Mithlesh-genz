@@ -51,16 +51,8 @@ Hey! I'm **Mithlesh Kumar Yadav**, a B.Tech CSE student passionate about technol
 ### 1. YuvrenTalk
 A short-video and social entertainment platform.
 
-### 2. BharatTalk
-A modern community platform with interactive features.
-
-### 3. Yuvren Smart Metro Card
+### 2. Yuvren Smart Metro Card
 An innovative smart travel card concept for metro transportation.
-
-### 4. YouPI-PG
-A self-hosted UPI and QR payment gateway.
-
-🔗 [View YouPI-PG Repository](https://github.com/youpi-pg/YouPI-PG)
 
 ---
 
