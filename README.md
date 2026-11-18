@@ -232,25 +232,25 @@ A smart mobility concept designed to simplify metro travel through digital card 
 <img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=050B12"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="https://www.linkedin.com/in/mithlesh-kumar-yadav?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/INSTAGRAM-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="YOUR_X_URL">
+<a href="https://x.com/mithlesh_genz">
 <img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=050B12"/>
 </a>
 
 <br/><br/>
 
-<a href="YOUR_YOUTUBE_URL">
+<a href="https://youtube.com/@mkumaryt2?si=-0XieyUC4ndl6UJM">
 <img src="https://img.shields.io/badge/YOUTUBE-FF0033?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="YOUR_DISCORD_URL">
+<a href="https://discord.com/users/1572609138138284206">
 <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mk5464748494@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-00FF9C?style=for-the-badge&logo=gmail&logoColor=050B12"/>
 </a>
 
